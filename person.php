@@ -15,6 +15,6 @@ class StudlyPerson //ArrogantCamelCase for ClassNames
     }
 }
 //According to specs there needs to be a newline at the end of this file
-//Always pull down from the master to get the current changes
+//Always "update from master" to get the current changes
 //Merge as needed
-//the pussh it up (submit pull request)
+//then push it up (submit pull request)
