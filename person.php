@@ -1,6 +1,6 @@
 <?php
 
-class StudlyPerson
+class StudlyPerson //ArrogantCamelCase for ClassNames
 {
     var $name; //this is a property
     
@@ -14,3 +14,4 @@ class StudlyPerson
         return $this->name;
     }
 }
+//According to specs there needs to be a newline at the end of this file
