@@ -6,6 +6,9 @@
  * and open the template in the editor.
  */
 
+//Should probably walk before we run, ehh? Write the code then refactor until you lose training wheels
+
+
 namespace EasyStreet\War;
 
 /**
@@ -13,7 +16,9 @@ namespace EasyStreet\War;
  *
  * @author blucas
  */
+
 class Card
 {
-    //put your code here
+    //Suit
+    //Value
 }
